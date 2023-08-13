@@ -1,0 +1,7 @@
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\HotelMan_HotelAdmin.dll
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\HotelMan_HotelAdmin.deps.json
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\HotelMan_HotelAdmin.runtimeconfig.json
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\HotelMan_HotelAdmin.pdb
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
