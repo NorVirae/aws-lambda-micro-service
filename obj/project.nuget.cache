@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "db9u0A+kM197qSrtORiyW47/E0RTnEvkcR2fddTYT+jHhPiS+SHdaVNLvamaeCZbLctjkCF41C0GWMavjEClmQ==",
+  "dgSpecHash": "YP6GRvIOkyC1JREHq9XykZbDa1MMVg317XclNMTbQiXcf7Pfsw4ft5zyVuDj6k3tsClrQEE5iTRmUaHtQAo9fg==",
   "success": true,
   "projectFilePath": "C:\\Users\\norbe\\Documents\\Projs\\HotelMan_HotelAdmin\\HotelMan_HotelAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\norbe\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\awssdk.core\\3.7.200.16\\awssdk.core.3.7.200.16.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\awssdk.s3\\3.7.201.14\\awssdk.s3.3.7.201.14.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\httpmultipartparser\\8.2.0\\httpmultipartparser.8.2.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.32.1\\microsoft.identitymodel.abstractions.6.32.1.nupkg.sha512",
