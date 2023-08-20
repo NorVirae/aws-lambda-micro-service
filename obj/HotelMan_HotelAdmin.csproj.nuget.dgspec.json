@@ -40,9 +40,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.200.17, )"
+            },
             "AWSSDK.S3": {
               "target": "Package",
               "version": "[3.7.201.14, )"
+            },
+            "AWSSDK.SimpleNotificationService": {
+              "target": "Package",
+              "version": "[3.7.200.21, )"
             },
             "Amazon.Lambda.APIGatewayEvents": {
               "target": "Package",
@@ -56,9 +64,17 @@
               "target": "Package",
               "version": "[2.3.1, )"
             },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "HttpMultipartParser": {
               "target": "Package",
               "version": "[8.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",

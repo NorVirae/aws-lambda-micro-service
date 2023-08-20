@@ -7,13 +7,10 @@ using System.Threading.Tasks;
 
 namespace HotelMan_HotelAdmin.Models
 {
-    [DynamoDBTable("Hotels")]
-    public class Hotel
+    public class HotelCreatedEvent
     {
-        [DynamoDBHashKey("userId")]
         public string userId { get; set; }
 
-        [DynamoDBRangeKey("id")]
         public string id { get; set; }
 
         public string Name { get; set; }
@@ -22,6 +19,6 @@ namespace HotelMan_HotelAdmin.Models
         public int Rating { get; set; }
         public string CityName { get; set; }
         public string FileName { get; set; }
-
+        public DateTime CreationDateTIme { get; set; }
     }
 }
