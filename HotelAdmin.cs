@@ -154,6 +154,7 @@ namespace HotelMan_HotelAdmin
                     TopicArn = Environment.GetEnvironmentVariable("TopicArn"),
                     Message = JsonSerializer.Serialize(hotelCreatedEvent)
                 });
+                Console.WriteLine("Topic ARn was published " + JsonSerializer.Serialize(publishResponse));
 
             }
 

@@ -5,9 +5,11 @@ C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Ho
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\AutoMapper.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\AWSSDK.Core.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\AWSSDK.SimpleNotificationService.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\HttpMultipartParser.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\norbe\Documents\Projs\HotelMan_HotelAdmin\bin\Release\net6.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
